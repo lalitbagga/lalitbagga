@@ -62,6 +62,7 @@ one experiment at a time.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+https://blog.lalitbagga.com/
 <!-- BLOG-POST-LIST:END -->
 
 ---
