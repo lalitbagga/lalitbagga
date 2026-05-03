@@ -68,9 +68,7 @@ one experiment at a time.
 
 ## 📊 GitHub Stats
 
-![Lalit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalitbagga&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitbagga&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=lalitbagga&theme=dark&hide_border=true)
 
 ---
 
