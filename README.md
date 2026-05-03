@@ -68,7 +68,7 @@ one experiment at a time.
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lalitbagga&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lalitbagga&theme=dark&border_radius=8&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
