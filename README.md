@@ -1,8 +1,13 @@
 # Hi, I'm Lalit Bagga 👋
 
-Software Engineer at Bayer focused on 
-Cloud & DevOps Engineering. Building on AWS 
-one experiment at a time.
+Software Engineer at Bayer working on 
+Cloud and DevOps engineering. I build on AWS, 
+write Terraform, and document everything I learn 
+at blog.lalitbagga.com. 8+ years of software 
+development experience across mobile, web, 
+and cloud infrastructure.
+
+
 
 📍 Ottawa, Canada
 📝 Writing at [lalitbagga.com](https://lalitbagga.com)
