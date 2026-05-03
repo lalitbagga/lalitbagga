@@ -62,7 +62,9 @@ one experiment at a time.
 ## 📝 Latest Blog Posts
 
 - [Breaking Lambda to Learn It: S3 Triggers, 
-  Permissions, and Pitfalls]([https://lalitbagga.com/breaking-lambda-to-learn-it-s3-triggers-permissions-and-pitfalls](https://blog.lalitbagga.com/breaking-lambda-to-learn-it-s3-triggers-permissions-and-pitfalls))
+  Permissions, and Pitfalls](https://blog.lalitbagga.com/breaking-lambda-to-learn-it-s3-triggers-permissions-and-pitfalls)
+
+<!-- more posts coming soon -->
 
 <!-- more posts coming soon -->
 
