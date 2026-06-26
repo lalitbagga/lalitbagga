@@ -11,7 +11,7 @@ I've been on both sides.
 
 
 📍 Ottawa, Canada
-📝 Writing at [lalitbagga.com](https://lalitbagga.com)
+📝 Writing at [lalitbagga.com](https://blog.lalitbagga.com)
 
 ---
 
@@ -51,28 +51,6 @@ I've been on both sides.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-
----
-
-## 🔨 What I'm Building
-
-- **S3 + Lambda pipeline** — event-driven 
-  serverless file processing on AWS
-- **API Gateway + Lambda** — REST API 
-  without a server
-- **Personal blog** — writing about 
-  AWS and DevOps at lalitbagga.com
-
----
-
-## 📝 Latest Blog Posts
-
-- [Breaking Lambda to Learn It: S3 Triggers, 
-  Permissions, and Pitfalls](https://blog.lalitbagga.com/breaking-lambda-to-learn-it-s3-triggers-permissions-and-pitfalls)
-
-<!-- more posts coming soon -->
-
-<!-- more posts coming soon -->
 
 ---
 
